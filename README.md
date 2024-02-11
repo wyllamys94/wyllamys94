@@ -8,9 +8,4 @@
 
 <a href="www.linkedin.com/in/wyllamys-ynwram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo"></a>
 
-### linguagens 
-
-<a 
-
-
 [![wyllamys94 github stats](https://github-readme-stats.vercel.app/api?username=wyllamys94)](https://github.com/anuraghazra/github-readme-stats)
